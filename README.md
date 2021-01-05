@@ -3,4 +3,6 @@
 I am keen software developer who enjoys the workflow of coding. Do you?
 
 - 🔭 I’m currently working on minesweeper, snake, 2048
-- 📫 How to reach me: andris.dirins@gmail.com
+- 📫 How to reach me: 
+www.linkedin.com/in/andris-dīriņš 
+andris.dirins@gmail.com
